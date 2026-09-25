@@ -27,6 +27,10 @@ This repository is intended to hold:
 /safety/
 ```
 
+## Collaboration
+
+Groups building small high altitude payloads, or teaching FAA Part 101 balloon operations, are welcome to collaborate with us on procedures and open flight data. Flown records: https://www.midwestsds.com/flights.html. Open data: https://www.midwestsds.com/msds-data-hub.html. To talk, email space@aerostratospheric.com or book a 15 minute intro at https://calendly.com/aerostratospheric/15min
+
 ## Related Repositories
 
 - [x2griffon](https://github.com/Midwest-Stratospheric/x2griffon) — Payload platform source and hardware notes
