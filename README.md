@@ -2,6 +2,12 @@
 
 Technical documentation, procedures, and guides for **Midwest Stratospheric Data Systems** operations and the **X2Griffon** high-altitude balloon platform.
 
+## Operation Canis Major
+
+<img src="https://www.midwestsds.com/images/operation-canis-major-patch.png" alt="Operation Canis Major patch" width="120" align="right">
+
+This project is part of [Operation Canis Major](https://www.midwestsds.com/operation-canis-major.html), often called Project Canis: Aerostratospheric's mission objective to provide open stratospheric and atmospheric research and data, unrestricted, to the public. Learn more: https://www.midwestsds.com/operation-canis-major.html
+
 ## Scope
 
 This repository is intended to hold:
