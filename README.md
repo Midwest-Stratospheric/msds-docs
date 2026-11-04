@@ -1,6 +1,6 @@
-# MSDS Documentation
+# Aerostratospheric Documentation
 
-Technical documentation, procedures, and guides for **Midwest Stratospheric Data Systems** operations and the **X2Griffon** high-altitude balloon platform.
+Technical documentation, procedures, and guides for **Aerostratospheric** operations and the **X2Griffon** high-altitude balloon platform.
 
 ## Operation Canis Major
 
@@ -50,6 +50,6 @@ Living documentation. Content will be added and refined as flights and procedure
 
 ---
 
-**Midwest Stratospheric Data Systems**  
+**Aerostratospheric**  
 Casey, Illinois  
 [midwestsds.com](https://www.midwestsds.com)
